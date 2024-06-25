@@ -1,9 +1,9 @@
-.class {
+.odd {
     background-color: rgb(255, 192, 203);
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
-.class.cool {
+.adjust-font-size {
     font-size: 24px;
 }
 
@@ -14,6 +14,5 @@
 
 #four {
     background-color: rgb(144, 238, 144);
-    font-size: 24px;
     font-weight: bold;
 }
